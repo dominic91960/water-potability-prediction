@@ -26,7 +26,7 @@ This project aims to develop a machine learning model for predicting the potabil
 2. Modify the notebook as needed to experiment with different models, features, or parameters.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
 
 ## Acknowledgements
 - Data Source: https://www.kaggle.com/datasets/adityakadiwal/water-potability/data
